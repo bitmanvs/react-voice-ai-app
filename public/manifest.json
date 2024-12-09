@@ -1,0 +1,78 @@
+{
+  "short_name": "Say",
+  "name": "Say: Transcription app",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/icon128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/icon48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/icon16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "background_color": "#1e293b",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#ffffff",
+  "description": "Easily record and transcribe your audio files into text using AI. Free, private, and local.",
+  "screenshots": [
+    {
+      "src": "/screenshot-01@1x.jpg",
+      "type": "image/jpg",
+      "sizes": "1200x628",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/screenshot-02@1x.jpg",
+      "type": "image/jpg",
+      "sizes": "1200x628",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/screenshot-03@1x.jpg",
+      "type": "image/jpg",
+      "sizes": "1200x628",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/screenshot-04@1x.jpg",
+      "type": "image/jpg",
+      "sizes": "1200x628",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/screenshot-mobile@1x.jpg",
+      "type": "image/png",
+      "sizes": "1170x2532",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/screenshot-mobile-2@1x.jpg",
+      "type": "image/png",
+      "sizes": "1170x2532",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/screenshot-mobile-3@1x.jpg",
+      "type": "image/png",
+      "sizes": "1170x2532",
+      "form_factor": "narrow"
+    }
+  ]
+}
+
